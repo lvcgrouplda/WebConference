@@ -1,2 +1,2 @@
 # WebConference
-Aplicação para gerir uma conferencia
+Aplicação para gerir uma conferencia vmc
